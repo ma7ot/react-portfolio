@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "About myself",
-    aboutme: "Results-driven full-stack web developer with over 10 years of experience in creating dynamic and interactive web applications. Skilled in utilizing a wide range of technologies, including NodeJS, React, NextJS, React Native, Python, PHP, and HTML/CSS. Adept at delivering high-quality solutions to meet client requirements and drive business growth. Proven track record of success as a freelancer, collaborating with reputable companies to develop innovative web solutions.",
+    aboutme: "Results-driven full-stack web developer with over 15 years of experience in creating dynamic and interactive web applications. Skilled in utilizing a wide range of technologies, including NodeJS, React, NextJS, React Native, Python, PHP, and HTML/CSS. Adept at delivering high-quality solutions to meet client requirements and drive business growth. Proven track record of success as a freelancer, collaborating with reputable companies to develop innovative web solutions.",
 };
 const worktimeline = [{
         jobtitle: "Arab Programmers Foundation",
