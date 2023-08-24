@@ -1,144 +1,124 @@
-const logotext = "JOHN";
+const logotext = "MA7OT";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Mahmoud Mohamed Osman Mahmoud",
+    description: "I’m Mahmoud Full stack web devloper from Oman.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Mahmoud Mohamed Osman",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "+15 years experience",
+        second: "I code amazing websites",
+        third: "Your satisfaction is my priority",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Results-driven full-stack web developer with over 10 years of experience in creating dynamic and interactive web applications. Skilled in utilizing a wide range of technologies, including NodeJS, React, NextJS, React Native, Python, PHP, and HTML/CSS. Adept at delivering high-quality solutions to meet client requirements and drive business growth. Proven track record of success as a freelancer, collaborating with reputable companies to develop innovative web solutions.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About myself",
+    aboutme: "Results-driven full-stack web developer with over 10 years of experience in creating dynamic and interactive web applications. Skilled in utilizing a wide range of technologies, including NodeJS, React, NextJS, React Native, Python, PHP, and HTML/CSS. Adept at delivering high-quality solutions to meet client requirements and drive business growth. Proven track record of success as a freelancer, collaborating with reputable companies to develop innovative web solutions.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Arab Programmers Foundation",
+        where: "Owner/Founder",
+        date: "2023 - Current",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Poslix Oman",
+        where: "Project Manager",
+        date: "2022 - 2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Birba Energy Oman",
+        where: "Lead Developer",
+        date: "2021 - 2022",
     },
+    {
+        jobtitle: "XYZ Team",
+        where: "Co-founder/Project Manager",
+        date: "2012 - 2018",
+    }
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "ReactJS",
+        value: 95,
+    },
+    
+    {
+        name: "NodeJS",
+        value: 95,
     },
     {
-        name: "Djano",
+        name: "NextJS",
+        value: 99,
+    },
+    {
+        name: "React Native",
         value: 85,
     },
     {
-        name: "Javascript",
-        value: 80,
-    },
-    {
-        name: "React",
+        name: "Python",
         value: 60,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "PHP/HTML/CSS",
+        value: 95,
     },
+    {
+        name: "Artificial Intelligence",
+        value: 75,
+    }
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+const services = [
+    {
+        "title": "Web Development",
+        "description": "Proficiently build sophisticated projects, leveraging a comprehensive full-stack skill set to deliver top-tier web solutions for clients.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        "title": "Mobile Applications",
+        "description": "Expertly craft exceptional mobile applications utilizing cutting-edge technologies and methodologies to deliver premium mobile experiences.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+        "title": "End-to-End Systems",
+        "description": "Demonstrate proficiency in architecting comprehensive systems of diverse nature, encompassing both web and mobile applications.",
+    }
 ];
 
-const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+const dataportfolio = [
+    {
+        img: "/ustath.-img.png",
+        description: "AI Powered Learning and Educational Platform",
+        link: "https://www.ustath.ai/",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/ticketsouq-img.png",
+        description: "Event Ticketing and Management System",
+        link: "https://www.ticketsouq.me/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/mycard-img.png",
+        description: "Digital Business Card Platform",
+        link: "https://mycard-s7ml.onrender.com/",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/poslix-img.png",
+        description: "Finanacial Shops and Stores POS System",
+        link: "https://poslix.com/"
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "/qrlix-img.png",
+        description: "Full Featured Restaurant & Booking Management System",
         link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    }
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "mahmoud.mohdosman@gmail.com",
+    YOUR_FONE: "+968 9423 6114",
+    description: "For inqueries please feel free to contact me.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +127,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/ma7ot",
+    facebook: null,
+    linkedin: null,
+    twitter: "https://twitter.com/ma7ot",
 };
 export {
     meta,
