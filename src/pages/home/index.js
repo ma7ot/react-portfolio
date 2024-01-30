@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 export const Home = () => {
   return (
     <HelmetProvider>
-      <section id="home" className="home">
+      <section id="home" className="home" style={{marginTop: '50px'}}>
         <Helmet>
           <meta charSet="utf-8" />
           <title> {meta.title}</title>
