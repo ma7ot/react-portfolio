@@ -130,7 +130,7 @@ const socialprofils = {
     github: "https://github.com/ma7ot",
     facebook: null,
     linkedin: null,
-    twitter: "https://twitter.com/ma7ot",
+    twitter: null,
 };
 export {
     meta,
