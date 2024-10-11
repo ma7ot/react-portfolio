@@ -43,12 +43,12 @@ const worktimeline = [{
 
 const skills = [{
     name: "ReactJS",
-    value: 95,
+    value: 99,
 },
 
 {
     name: "NodeJS",
-    value: 95,
+    value: 99,
 },
 {
     name: "NextJS",
@@ -56,7 +56,7 @@ const skills = [{
 },
 {
     name: "React Native",
-    value: 85,
+    value: 80,
 },
 {
     name: "Python",
@@ -64,11 +64,11 @@ const skills = [{
 },
 {
     name: "PHP/HTML/CSS",
-    value: 95,
+    value: 99,
 },
 {
     name: "Artificial Intelligence",
-    value: 75,
+    value: 80,
 }
 ];
 
@@ -116,7 +116,7 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "mahmoud.mohdosman@gmail.com",
+    YOUR_EMAIL: "ma7ot.gplay@gmail.com",
     YOUR_FONE: "+968 9423 6114",
     description: "For inqueries please feel free to contact me.",
     // creat an emailjs.com account 
