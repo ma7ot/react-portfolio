@@ -20,56 +20,56 @@ const dataabout = {
     aboutme: "Results-driven full-stack web developer with over 15 years of experience in creating dynamic and interactive web applications. Skilled in utilizing a wide range of technologies, including NodeJS, React, NextJS, React Native, Python, PHP, and HTML/CSS. Adept at delivering high-quality solutions to meet client requirements and drive business growth. Proven track record of success as a freelancer, collaborating with reputable companies to develop innovative web solutions.",
 };
 const worktimeline = [{
-        jobtitle: "Arab Programmers Foundation",
-        where: "Owner/Founder",
-        date: "2023 - Current",
-    },
-    {
-        jobtitle: "Poslix Oman",
-        where: "Project Manager",
-        date: "2022 - 2023",
-    },
-    {
-        jobtitle: "Birba Energy Oman",
-        where: "Lead Developer",
-        date: "2021 - 2022",
-    },
-    {
-        jobtitle: "XYZ Team",
-        where: "Co-founder/Project Manager",
-        date: "2012 - 2018",
-    }
+    jobtitle: "Arab Programmers Foundation",
+    where: "Owner/Founder",
+    date: "2023 - Current",
+},
+{
+    jobtitle: "Poslix Oman",
+    where: "Project Manager",
+    date: "2022 - 2023",
+},
+{
+    jobtitle: "Birba Energy Oman",
+    where: "Lead Developer",
+    date: "2021 - 2022",
+},
+{
+    jobtitle: "XYZ Team",
+    where: "Co-founder/Project Manager",
+    date: "2012 - 2018",
+}
 ];
 
 const skills = [{
-        name: "ReactJS",
-        value: 95,
-    },
-    
-    {
-        name: "NodeJS",
-        value: 95,
-    },
-    {
-        name: "NextJS",
-        value: 99,
-    },
-    {
-        name: "React Native",
-        value: 85,
-    },
-    {
-        name: "Python",
-        value: 60,
-    },
-    {
-        name: "PHP/HTML/CSS",
-        value: 95,
-    },
-    {
-        name: "Artificial Intelligence",
-        value: 75,
-    }
+    name: "ReactJS",
+    value: 95,
+},
+
+{
+    name: "NodeJS",
+    value: 95,
+},
+{
+    name: "NextJS",
+    value: 99,
+},
+{
+    name: "React Native",
+    value: 85,
+},
+{
+    name: "Python",
+    value: 60,
+},
+{
+    name: "PHP/HTML/CSS",
+    value: 95,
+},
+{
+    name: "Artificial Intelligence",
+    value: 75,
+}
 ];
 
 const services = [
@@ -88,11 +88,11 @@ const services = [
 ];
 
 const dataportfolio = [
-    {
-        img: "/ustath.-img.png",
-        description: "AI Powered Learning and Educational Platform",
-        link: "https://www.ustath.ai/",
-    },
+    // {
+    //     img: "/ustath.-img.png",
+    //     description: "AI Powered Learning and Educational Platform",
+    //     link: "https://www.ustath.ai/",
+    // },
     {
         img: "/ticketsouq-img.png",
         description: "Event Ticketing and Management System",
@@ -101,17 +101,17 @@ const dataportfolio = [
     {
         img: "/mycard-img.png",
         description: "Digital Business Card Platform",
-        link: "https://mycard-s7ml.onrender.com/",
-    },
-    {
-        img: "/poslix-img.png",
-        description: "Finanacial Shops and Stores POS System",
-        link: "https://poslix.com/"
+        link: "https://www.mycard.om/",
     },
     {
         img: "/qrlix-img.png",
-        description: "Full Featured Restaurant & Booking Management System",
-        link: "#",
+        description: "Full Featured Restaurant Ordering App and Management System",
+        link: "https://dexoman.com/"
+    },
+    {
+        img: "/t1z.png",
+        description: "Full features URL Shortener with API",
+        link: "https://tiny1z.com/"
     }
 ];
 
